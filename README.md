@@ -15,3 +15,9 @@ This project is a **Library Management System** developed using **Java**. It is 
 ## Installation and Setup
 
 1. Clone this repository:
+git clone https://github.com/rasinis/Library-Management-System.git
+## Demo Video
+
+You can watch a demo of the project here:
+
+[Library Management System Demo](https://drive.google.com/file/d/13JDeZb1y1PWigo-bG4nUNVMCJSo9-zCU/view?usp=drive_link)
